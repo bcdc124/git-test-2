@@ -23,6 +23,12 @@ end
 666
 end
 -------
+<<<<<<< HEAD
 888 - from eclipse
 end
 -------
+=======
+777 - from github
+end
+-------
+>>>>>>> refs/remotes/origin/master
